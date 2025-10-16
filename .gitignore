@@ -1,0 +1,26 @@
+# --- Python temporary files ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# --- Jupyter Notebook checkpoints ---
+.ipynb_checkpoints/
+
+# --- Virtual environments ---
+venv/
+.env/
+
+# --- Data folders (optional) ---
+data/
+datasets/
+
+# --- OS and IDE junk files ---
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# --- Other auto-generated files ---
+*.log
+*.bak
