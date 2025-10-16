@@ -62,18 +62,18 @@ Setup Instructions
 
 1. Clone the repository:
 
-git clone https://github.com/Boy-In-Tech/ml-internship-tasks.git
-cd ml-internship-tasks
+        git clone https://github.com/Boy-In-Tech/ml-internship-tasks.git
+        cd ml-internship-tasks
 
 
 2. Install dependencies:
 
-pip install -r requirements.txt
+       pip install -r requirements.txt
 (You can generate this later with pip freeze > requirements.txt.)
 
 3. Open Jupyter Notebooks:
 
-jupyter notebook
+       jupyter notebook
 
 Then open any of the task folders to explore the code.
 
